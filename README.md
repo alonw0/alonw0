@@ -7,14 +7,14 @@ Public speaker & writer.
 ## 🚀 Featured Projects
 
 ### ⭐ [web-asset-generator](https://github.com/alonw0/web-asset-generator)
-**48 stars** | Python | MIT License
+**59 stars** | Python | MIT License
 
 Claude skill to generate favicons, app icons, and social media images from logos, text, or emojis. Supports emoji suggestions, validation, and framework auto-integration.
 
 ---
 
-### 📦 [django-charfield-filters](https://github.com/alonw0/django-charfield-filters)
-**1 star** | Django utility for enhanced CharField filtering
+### 📦 [llm-docs-optimizer](https://github.com/alonw0/llm-docs-optimizer)
+**16 star** | A Claude Code plugin that optimizes documentation for AI coding assistants like Claude, GitHub Copilot, and other LLMs
 
 ---
 
