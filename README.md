@@ -1,4 +1,4 @@
-# Hi there, I'm Alon 👋
+# About me
 
 I'm a passionate developer who loves building useful tools and exploring new technologies. As a seasoned software engineer with years of hands-on experience, I thrive at the intersection of technology and innovation. My journey has taken me through diverse projects across multiple technologies, where I have honed my skills in developing robust solutions and driving impactful results.
 
@@ -7,7 +7,7 @@ Public speaker & writer.
 ## 🚀 Featured Projects
 
 ### ⭐ [web-asset-generator](https://github.com/alonw0/web-asset-generator)
-**106 stars** | Python
+**112 stars** | Python
 
 Claude skill to generate favicons, app icons, and social media images from logos, text, or emojis. Supports emoji suggestions, validation, and framework auto-integration.
 
@@ -32,8 +32,9 @@ Website scanning and analysis tool
 - Python (Django, Flask, FastAPI, LangChain, Pydantic, Torch & more)
 - JavaScript/TypeScript (Svelete, React, Node, SolidJS, Vue, Angular, Ember, jQuery, htmx & more)
 - Docker & k8s
-- AWS (Lambda, eks, ecs, ec2, dynamo & more)
+- AWS (Lambda, eks, ecs, ec2, dynamo & more), GCP
 - Rust/Go and some low levels mostly with embeded
+- Claude Code, OpenCode, Cursor - tooling snd such
 
 ## 📫 How to reach me
 
@@ -43,6 +44,7 @@ Feel free to connect with me or check out my projects!
 - [Medium](https://medium.com/@alonwo)
 - [LinkedIn](https://www.linkedin.com/in/alonwo/)
 - [Drorsoft](https://www.drorsoft.com/en/)
+- [Claude Code Blog](https://claude-blog.setec.rs/)
 
 *"Simplicity is prerequisite for reliability."* — Edsger Dijkstra
 💡 *Always learning, always building*
