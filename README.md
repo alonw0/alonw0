@@ -7,7 +7,7 @@ Public speaker & writer.
 ## 🚀 Featured Projects
 
 ### ⭐ [web-asset-generator](https://github.com/alonw0/web-asset-generator)
-**133 stars** | Python
+**154 stars** | Python
 
 Claude skill to generate favicons, app icons, and social media images from logos, text, or emojis. Supports emoji suggestions, validation, and framework auto-integration.
 
