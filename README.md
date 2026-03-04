@@ -7,14 +7,14 @@ Public speaker & writer.
 ## 🚀 Featured Projects
 
 ### ⭐ [web-asset-generator](https://github.com/alonw0/web-asset-generator)
-**181 stars** | Python
+**194 stars** | Python
 
 Claude skill to generate favicons, app icons, and social media images from logos, text, or emojis. Supports emoji suggestions, validation, and framework auto-integration.
 
 ---
 
 ### 📦 [llm-docs-optimizer](https://github.com/alonw0/llm-docs-optimizer)
-**48 star** | Python
+**50 star** | Python
 
 A Claude Code plugin that optimizes documentation for AI coding assistants like Claude, GitHub Copilot, and other LLMs
 
