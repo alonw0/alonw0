@@ -1,4 +1,4 @@
-# Alon Wolenitz. 
+# Alon Wolenitz. (@alonwo)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6EC6F7&width=500&lines=Software+Engineer;Agentic+Coding+Infrastructure;Infra+%26+Fullstack+Consultant;AWS+Community+Builder;Public+Speaker+%26+Writer)](https://git.io/typing-svg)
 
